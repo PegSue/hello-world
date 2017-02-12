@@ -1,2 +1,2 @@
 # hello-world
-I am new to Git, Just another repository
+I am new to Git and ready to jettison with the clouds.
